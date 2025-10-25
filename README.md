@@ -60,22 +60,6 @@ SeedFiles_SidePanel/
 - 노트 작성, 번역, 참고 자료에 유용
 - 백그라운드 스크립트로 고급 기능 구현 가능
 
-### 3. ExtensionKit 템플릿 (`popup-template/`)
-```
-popup-template/
-├── manifest.json      # 상세 설정
-├── index.html         # 메인 HTML
-├── css/              # 스타일시트
-├── icons/            # 아이콘들
-├── images/           # 이미지
-└── README.md         # 자세한 설명
-```
-
-**특징:**
-- 프로페셔널한 구조
-- 완성도 높은 템플릿
-- 팀 프로젝트나 스토어 배포에 적합
-
 ---
 
 ## 🛠️ 시작하기 - 첫 번째 확장 프로그램 만들기
