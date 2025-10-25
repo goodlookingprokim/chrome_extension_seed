@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "잘생김프로쌤의 펀펀한 프로그래밍(사이드패널)",
+    "version": "1.0",
+    "description": "잘생김프로쌤의 펀펀한 프로그래밍 크롬 확장프로그램 기본 템플릿 자료",
+    "permissions": [
+        "sidePanel",
+        "tabs"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_title": "잘생김프로쌤의 펀펀한 프로그래밍(사이드패널)"
+    },
+    "side_panel": {
+        "default_path": "popup.html"
+    }
+}

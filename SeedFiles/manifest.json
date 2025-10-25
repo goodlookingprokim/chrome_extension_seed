@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "name": "잘생김프로쌤 펀펀한 프로그래밍(팝업)",
+    "version": "1.0",
+    "description": "잘생김프로쌤의 펀펀한 프로그래밍 크롬 확장프로그램 기본 템플릿 자료",
+    "action": {
+        "default_popup": "popup.html"
+    }
+}

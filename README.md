@@ -1,4 +1,4 @@
-# chrome_extension_seed
+# Chrome_Extension_Seed
 
 ## 🚀 4060 미들스쿨 주니어 개발자를 위한 크롬 확장 프로그램 가이드
 
