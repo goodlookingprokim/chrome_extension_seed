@@ -1,0 +1,19 @@
+# AI-generated files
+.claude/
+.codex/
+
+# macOS
+.DS_Store
+
+# Node.js (if used)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VS Code
+.vscode/settings.json
+
+# Chrome Extension
+*.crx
+*.pem
