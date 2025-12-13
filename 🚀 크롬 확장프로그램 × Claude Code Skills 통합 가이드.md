@@ -1,19 +1,3 @@
-## 🎙️ 오디오 버전 듣기
-**📁 🚀 크롬 확장프로그램 × Claude Code Skills 통합 가이드.mp3**
-
-<div style="width: 100%; margin: 0 auto;">
-<iframe
-    src="https://drive.google.com/file/d/1iktnPrfcY68JOjtf0c3-LcSYPhpSjG4i/preview"
-    width="100%"
-    height="100px"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-</iframe>
-</div>
----
-![[999-Attachments/---크롬-확장프로그램---Claude-Code-Skills-통합-가이드-poster-1765604116232.jpg]]
-
 # 🚀 크롬 확장프로그램 × Claude Code Skills 통합 가이드
 
 > **목표**: 누구나 클릭 한 번으로 Claude Code의 강력한 Skills를 실행할 수 있게 만들기
