@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "오늘의 명언",
+  "version": "1.0.0",
+  "description": "새 탭을 열 때마다 영감을 주는 명언을 만나보세요!",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
